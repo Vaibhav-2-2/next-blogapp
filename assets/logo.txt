@@ -1,0 +1,15 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faEnvelope, faUpload } from '@fortawesome/free-solid-svg-icons';
+import { faFacebook, faTwitter, faInstagram, faBlogger } from '@fortawesome/free-brands-svg-icons';
+
+
+<FontAwesomeIcon icon={faArrowRight} />
+
+ <FontAwesomeIcon icon={faPlus} />
+
+  <FontAwesomeIcon icon={faBlogger} width={20} height={20} color="#FF5722" />
+      <FontAwesomeIcon icon={faEnvelope} width={20} height={20} color="#007bff" />
+      <FontAwesomeIcon icon={faFacebook} width={20} height={20} color="#4267B2" />
+      <FontAwesomeIcon icon={faTwitter} width={20} height={20} color="#1DA1F2" />
+      <FontAwesomeIcon icon={faInstagram} width={20} height={20} color="#E4405F" />
+      <FontAwesomeIcon icon={faUpload} width={20} height={20} color="#28a745" />
